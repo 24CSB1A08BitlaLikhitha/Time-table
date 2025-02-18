@@ -1,0 +1,33 @@
+.head{
+    display: inline-block;
+    margin-left: 150px;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    
+}
+table{
+    margin-left: 180px;
+    display: inline-block;
+    align-self: center;
+    border: solid 3px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+th,td{
+    border-radius: 3px;
+    border: solid 2px;
+}
+body{
+    background-image: url(1.jpg);
+    position: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+   color: rgb(23, 11, 89);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
